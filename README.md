@@ -38,12 +38,6 @@ Developed as part of **MBA – Healthcare Analytics (Advanced Digital Health)** 
 └── Apex_Dental_Digital_Transformation_Plan.docx    # Full strategic report & architecture documentation
 ```
 
-## Screenshots & Visual Previews
-
-> **How to add your screenshots on GitHub:**
-> 1. Create a folder named `assets` in the root of your GitHub repository (click **Add file** > **Create new file**, type `assets/.gitkeep`, and commit).
-> 2. Take screenshots of your Jira Kanban BMC Board, Jira 3-Year Timeline, and the HTML Dashboard, and save them as `jira-bmc-board.png`, `jira-3yr-timeline.png`, and `dashboard-roi-simulator.png`.
-> 3. Upload all three images into the `assets/` folder—they will automatically render below!
 
 ### 1. Jira Software — 9-Block Business Model Canvas (Kanban Board)
 ![Jira Business Model Canvas Board](assets/jira-bmc-board.png)
@@ -89,21 +83,6 @@ Developed as part of **MBA – Healthcare Analytics (Advanced Digital Health)** 
   * Deploy **Digital Twin** 3D virtual smile design and maxillofacial pre-surgical rehearsal simulations.
   * Expand multilingual GenAI patient concierge services for NRI and international dental tourism patients.
   * Pursue **NABH Digital Health Accreditation** alongside continuous VAPT security audits.
-
-## How to Use the Artifacts in This Repository
-
-### 1. Launch the Interactive Dashboard
-1. Download `apex_dental_digital_transformation_dashboard.html`.
-2. Open the file directly in any modern web browser (Chrome, Edge, Safari, Firefox)—no local server or build step required.
-3. Explore all 7 interactive modules, inspect the HIS/ABDM architecture nodes, filter the 10 KPIs, and adjust sliders in the **What-If ROI Simulator**.
-
-### 2. Import the Business Model Canvas & Roadmap into Jira Software
-1. Create a **Team-managed Kanban project** in Jira Software (e.g., `Apex Dental Digital Transformation`).
-2. Configure **9 Board Columns** representing the Business Model Canvas:
-   * `1. Key Partners` | `2. Key Activities` | `3. Key Resources` | `4. Value Propositions` | `5. Customer Relationships` | `6. Channels` | `7. Customer Segments` | `8. Cost Structure` | `9. Revenue Streams`
-3. Navigate to **Settings (⚙️) > System > External System Import > CSV** and upload `apex_dental_bmc_roadmap_kpis_combined.csv`.
-4. Map `Summary`, `Issue Type`, `Description`, and `Labels` to import all **50 work items** (26 BMC cards, 3 Yearly Epics, 11 Implementation Tasks, and 10 KPI Stories).
-5. Use the **Board** view to visualize the Business Model Canvas and the **Timeline** view to manage the 3-year rollout.
 
 
 ## Author
